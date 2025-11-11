@@ -1,4 +1,4 @@
-![logo](https://github.com/rohanvanjari264/Profile)
+
 <h1 align="left">🚀 About Me</h1>
 
 <p align="left">Hello! I'm Rohan Vanjari, a Computer Science and Engineering student at Ajeenkya DY Patil University, passionate about technology and innovative solutions. My experience in hackathons and leadership roles with TechPioneers has allowed me to enhance my skills in problem-solving, teamwork, and technical expertise. As a proactive individual, I have developed strong management and organizational abilities, making me effective in both academic and extracurricular activities. <br><br>I'm always eager to learn and take on challenges that push the boundaries of my knowledge and capabilities.</p>

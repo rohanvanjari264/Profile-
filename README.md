@@ -1,3 +1,4 @@
+<img src="https://github-readme-stats.vercel.app/api?username=rohan-vanjari&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <h1 align="left">🚀 About Me</h1>
 
